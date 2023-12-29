@@ -1,0 +1,293 @@
+
+
+#rustyXchallen {   
+    padding: 20px 20px;
+    font-size: 15px;
+    line-height: 1.5;
+    background-color: #ffffff;
+    box-shadow: 1px 5px 25px black;
+    border-radius: 5px;
+    max-width: 800px;
+    display: flex;
+    place-items: center;
+    margin-left: 10%;
+
+}
+
+#rustyXchallen img {
+    width:100%;
+    border-radius: 5px;
+    text-align: justify;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.rustyXchallenlink1 {   
+    padding: 20px 20px;
+    font-size: 15px;
+    line-height: 1.5;
+    background-color: #ffffff;
+    box-shadow: 1px 5px 25px black;
+    border-radius: 5px;
+    width: 100%;
+    /* display: flex;
+    place-items: center;
+    margin-left: 10%; */
+
+}
+
+
+
+.rustyXchallenlink1 img {
+    width:100%;
+    border-radius: 5px;
+    text-align: justify;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+#logointro  {
+    background-position: center bottom ;
+    background-size: cover;
+    width: 80px;     
+}
+
+#rustyXchallen1 {
+    top: 25%;
+    left: auto;
+}
+
+#fondogif {
+
+    background-size: cover;
+    width: 400px;
+    float: left;
+    margin: 20px;
+}
+
+#tarjeta {
+    display: flex;
+    position: center;
+    margin: 20px 10px;
+    
+}
+
+#title1{
+    display: flex;
+    position: relative;
+    place-content: center;
+    text-align: center;
+    left: 18%;
+}
+
+
+#botonsolicitud {
+    position: relative;
+    left: 55%;
+    height: 80px;
+    width: 30%;
+    /* float: left top; */
+    margin: 10px 0px 0px 0px;
+    padding: 5px 5px;
+
+}
+
+button {
+    margin: 10px;
+   
+}
+
+#computos {   
+    padding: 20px 20px;
+    font-size: 10px;
+    line-height: 1.5;
+    background-color: #fff;
+    box-shadow: 1px 5px 25px black;
+    border-radius: 5px;
+
+}
+
+#computos {
+    height: 40vh;
+    font-size: 45px;
+}
+
+#computos p {
+    margin-top: 10px;
+}
+
+#computos img {
+    margin: 20px 10px 20px 20px;
+    width:200px;
+    border-radius: 5px;
+    float: left;
+    text-align: justify;
+    background-size: cover;
+    top: 50%;
+}
+
+#imgparrafo{
+    padding: 0px 0px 80px 0px;
+}
+
+#imgparrafo img {
+    margin: 20px 10px 20px 20px;
+    width: 300px;
+    border-radius: 5px;
+    float: right;
+    text-align: justify;
+    background-size: cover;
+    top: 50%;
+}
+
+#Rustytrack    {
+    background-image: url(linea.png);
+    background-size: cover;
+    color: aliceblue;
+    width: 100%;
+    font-size: 35px;
+}
+
+#extremo {
+    background-image: url(linea.png);
+    background-size: cover;
+    color: aliceblue;
+    width: 100%;
+    font-size: 35px;
+    
+}
+#estandarpro{
+    background-image: url(linea.png);
+    background-size: cover;
+    color: aliceblue;
+    width: 100%;
+    font-size: 35px;
+}
+#estandarTOUR{
+    background-image: url(linea.png);
+    background-size: cover;
+    color: aliceblue;
+    width: 100%;
+    font-size: 35px;
+}
+
+
+
+
+@media(max-width:800px) {
+    #extremo {
+        font-size: 25px;
+        text-shadow: 3px 5px 7px rgb(31, 31, 31);
+    }
+
+    #estandarpro{
+        font-size: 25px;
+        text-shadow: 3px 5px 7px rgb(31, 31, 31);
+    }
+
+    #estandarTOUR{
+        font-size: 25px;
+        text-shadow: 3px 5px 7px rgb(31, 31, 31);
+    }
+
+    #Rustytrack    {
+        font-size: 25px;
+        text-shadow: 3px 5px 7px rgb(31, 31, 31);
+    }
+
+    #imgparrafo img {
+        margin: 20px 10px 20px 20px;
+        width: 240px;
+        border-radius: 5px;
+        float: right;
+        text-align: justify;
+        background-size: cover;
+        top: 50%;
+    }
+
+    #botonsolicitud {
+        height: 90px;
+        width: 50%;
+        float: left top;
+        margin: 20px 0px 0px 0px;
+    
+    }
+
+    #tarjeta {
+        display: flex;
+        position: center;
+        margin-top: 0px;
+        margin-bottom: 50px ;
+        
+    }
+    
+    #title1{
+        display: flex;
+        position: relative;
+        place-content: center;
+        text-align: center;
+        left: 2%;
+    }
+    
+    
+    #botonsolicitud {
+        position: relative;
+        left: 35%;
+        height: 80px;
+        width: 30%;
+        /* float: left top; */
+        margin: 10px 0px 0px 0px;
+        padding: 5px 5px;
+    
+    }
+
+    #computos {
+        height: 80vh;
+        font-size: 45px;
+    }
+
+    #rustyXchallen{   
+        padding: 20px 20px;
+        font-size: 15px;
+        line-height: 1.5;
+        background-color: #ffffff;
+        box-shadow: 1px 5px 25px black;
+        border-radius: 5px;
+        max-width: 600px;
+        margin-right: 10%;
+        margin-bottom: 40px;
+    
+    }
+
+    #rustyXchallenlink1 {
+        width: 100%;
+        line-height: 1.5;
+        background-color: #ffffff;
+        box-shadow: 1px 5px 25px black;
+        border-radius: 5px;
+        margin-left: 0;
+    }
+
+    #rustyXchallenlink1 img {
+        width:100%;
+        border-radius: 5px;
+        background-size: cover;
+        background-position: center;
+        
+    }
+
+    #rustyXchallenlink1 p {
+        padding: auto;
+        margin: auto;
+        margin-right: 5%;
+    }
+
+    #fondogif {
+        background-size: cover;
+        width: 400px;
+        float: left;
+        margin: 20px 0px;
+    }
+}
